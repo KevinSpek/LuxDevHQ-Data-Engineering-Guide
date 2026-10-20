@@ -48,7 +48,7 @@ To avoid that problem, it's recommended that you start out running Python in a b
 There are a number of web pages you can use to run Python. Some popular options include:
 - [Replit](https://replit.com/)
 - [Python.org's online console](https://www.python.org/shell/)
-- [Trinket](https://trinket.io/python)
+- [Coddy](https://coddy.tech/playground/python)
 
 ### Python Versions
 
